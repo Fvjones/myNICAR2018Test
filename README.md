@@ -10,4 +10,4 @@ Some new text that is exclusive to the branch.
 
 # This is where my SQL or Python analysis will be described. This is a larger header.
 
-I plan to eat pancakes for breakfast.
+*I have abandoned the pancakes plan, in favor of [Chicago-style hot dogs](viennabeef.com).*
